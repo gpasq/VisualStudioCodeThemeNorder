@@ -1,0 +1,28 @@
+{
+  "name": "norder",
+  "displayName": "Norder",
+  "description": "More Nord",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Norder",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Norder-color-theme.json"
+      }
+    ]
+  },
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gpasq/VisualStudioCodeThemeNorder"
+  },
+  "publisher": "GregPasquariello",
+  "author": "Greg Pasquariello"
+}
